@@ -211,6 +211,10 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 3. **Run the Queries**: Use the SQL queries provided in the `analysis_queries.sql` file to perform your analysis.
 4. **Explore and Modify**: Feel free to modify the queries to explore different aspects of the dataset or answer additional business questions.
 
+## Author - Aditi Goyal
+B.Tech CSE student exploring database management and data analysis. This beginner-level project uses PostgreSQL to analyze retail sales data, covering essential SQL concepts such as SELECT statements, WHERE clauses, GROUP BY, aggregate functions, and basic joins.
+email-id : aditigoyal779@gmail.com
+LinkedIn : https://www.linkedin.com/in/aditi-goyal-50a9032b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 
 
